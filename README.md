@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @zay-yar-lwin
+## About me
+- 👋 Hi, I’m **@zay-yar-lwin**
 - 👀 I’m interested in developing computer softwares.
 - 🌱 I’m currently learning web development
 - 💞️ I’m looking to collaborate on linux kernel.
